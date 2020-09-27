@@ -4,7 +4,7 @@
 
 - [ ] A matrix may contain numeric values only.
 - [ ] A matrix must not be singular.
-- [ ] A data frame may contain variables that have different modes.
+- [x] A data frame may contain variables that have different modes.
 - [ ] A data frame may contain variables of different lengths.
 
 #### Q2. What value does this statement return?
